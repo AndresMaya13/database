@@ -1,0 +1,9 @@
+{
+    "ENV": "production",
+    "URL":"http://localhost:4000", //local
+    "primaryColor": "#2196f3",
+    "secundaryColor":"#6c757d", //gris
+    "purpleColor":"#7c46fe", //morado
+    "delayRequest": 200,
+    "name": "App"
+}
